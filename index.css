@@ -1,0 +1,12 @@
+h1{
+    color: white;
+    border: 1px solid green;
+    background: teal;
+    text-align: center;
+    margin: 0;
+    padding: 2rem;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
